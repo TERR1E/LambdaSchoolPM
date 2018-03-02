@@ -10,8 +10,7 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
 
 ## Helpful Links
  - [Lambda School Training Kit](https://tk.lambdaschool.com/cs-master)
- - [Lambda School Github Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)
-    - not actively maintained
+ - [Lambda School Github Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus) not actively maintained
  - [Lambda School Syllabus](https://github.com/LambdaSchool/computer-science)
  - [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
 
@@ -25,4 +24,17 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
   ![Lambda School Sprint Structure Image](images/schedule.jpg?raw=true)
 
   </p>
+</details>
+
+## Teaching Assistants | Project Leads
+<details>
+  <summary>List of CS9 TAs</summary>
+  - Alex Figilolia, Slack: @alexFig
+  - Austin French, Slack: @frogr
+  - Bonn Wonghansa, Slack: @Bonnw
+  - Don Utley, Slack: @Don
+  - Justin Borek, Slack: @JustinB
+  - Kia Choi, Slack: @Kai Choi
+  - Susanna McDonnald, Slack: @Susanna McDonnald
+  - Thomas Dillard - Lead, Slack: @TDill
 </details>
