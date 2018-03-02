@@ -18,8 +18,8 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
 ## Scheduling
 <details><summary>Lambda School Week Structure</summary>
 <p>
-[Lambda School Sprint Structure](images/schedule.jpg?raw=true)
 
 [Lambda School Sprint Structure](https://docs.google.com/spreadsheets/d/1m83sq7Td5jpJ0XQUTwN7dJKhBHvIUppyHGIQ58pVQl4/edit?usp=sharing)
+[Lambda School Sprint Structure](images/schedule.jpg?raw=true)
 </p>
 </details>
