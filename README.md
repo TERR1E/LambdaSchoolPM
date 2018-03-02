@@ -30,13 +30,16 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
 <details>
   <summary>List of CS9 TAs</summary>
   <p>
-    - Alex Figilolia, Slack: @alexFig<br/>
-    - Austin French, Slack: @frogr<br/>
-    - Bonn Wonghansa, Slack: @Bonnw<br/>
-    - Don Utley, Slack: @Don<br/>
-    - Justin Borek, Slack: @JustinB<br/>
-    - Kia Choi, Slack: @Kai Choi<br/>
-    - Susanna McDonnald, Slack: @Susanna McDonnald<br/>
-    - Thomas Dillard - Lead, Slack: @TDill<br/>
+    Alex Figilolia, Slack: @alexFig<br/>
+    Austin French, Slack: @frogr<br/>
+    Bonn Wonghansa, Slack: @Bonnw<br/>
+    Don Utley, Slack: @Don<br/>
+    Justin Borek, Slack: @JustinB<br/>
+    Kia Choi, Slack: @Kai Choi<br/>
+    Susanna McDonnald, Slack: @Susanna McDonnald<br/>
+    Thomas Dillard - Lead, Slack: @TDill<br/>
   </p>
+</details>
+<details>
+  <summary>##Priorities</summary>
 </details>
