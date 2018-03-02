@@ -29,12 +29,14 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
 ## Teaching Assistants | Project Leads
 <details>
   <summary>List of CS9 TAs</summary>
-  - Alex Figilolia, Slack: @alexFig
-  - Austin French, Slack: @frogr
-  - Bonn Wonghansa, Slack: @Bonnw
-  - Don Utley, Slack: @Don
-  - Justin Borek, Slack: @JustinB
-  - Kia Choi, Slack: @Kai Choi
-  - Susanna McDonnald, Slack: @Susanna McDonnald
-  - Thomas Dillard - Lead, Slack: @TDill
+  <p>
+    - Alex Figilolia, Slack: @alexFig
+    - Austin French, Slack: @frogr
+    - Bonn Wonghansa, Slack: @Bonnw
+    - Don Utley, Slack: @Don
+    - Justin Borek, Slack: @JustinB
+    - Kia Choi, Slack: @Kai Choi
+    - Susanna McDonnald, Slack: @Susanna McDonnald
+    - Thomas Dillard - Lead, Slack: @TDill
+  </p>
 </details>
