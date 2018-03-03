@@ -45,11 +45,12 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
 <details>
   <summary>Priorities</summary>
 
+  <p>
   ##If you're clocked in, code review is the top priority.
     
   In-depth code reviews have the most impact.
 
   Code reviews should be done during morning instruction. The emphasis should be on current PR's, not past ones.  
 
-  The Queue should be covered in the afternoon.
+  The Queue should be covered in the afternoon.</p>
 </details>
