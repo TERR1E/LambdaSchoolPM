@@ -14,6 +14,7 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
  - [Lambda School Syllabus](https://github.com/LambdaSchool/computer-science)
  - [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
  - [MixelPixel's Enviroment Setup Guide](https://github.com/mixelpixel/Getting-Started)
+  - [Emily's Brownbag checklist](/extras/BrownBags.md)
 
 ## Scheduling
 <details>
@@ -44,6 +45,7 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
 <details>
   <summary>Priorities</summary>
   <p>
+   
     ##If you're clocked in, code review is the top priority.
     
     In-depth code reviews have the most impact.
