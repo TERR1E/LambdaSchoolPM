@@ -46,6 +46,7 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
   <summary>Priorities</summary>
 
   <p>
+
   ##If you're clocked in, code review is the top priority.
     
   In-depth code reviews have the most impact.
