@@ -17,6 +17,7 @@ Thank you Tai the Thai and all of the other TAs for answering all the questions 
  - [Emily's Brownbag Checklist](/extras/BrownBags.md)
  - [Frogr's Pull Request Workflow](https://github.com/frogr/Pull-Request-Workflow)
  - [Susanna's 1:1 Schedule](https://docs.google.com/forms/d/1QkRXRaznG5_qGtk3SsGgeh4L4Gcy_IIo_fHUI7xUlEc/edit)
+ - [Repl.it Exercises](/extras/Repl.it_Exercises.md)
 
 ## Scheduling
 <details>
