@@ -2,7 +2,7 @@
 CS10 Project Manager Guide/Handbook
 
 ## Special Thanks
-This repository is based on a fantastic repository under the same name put together by [Patrick Kennedy](https://github.com/mixelPixel/LambdaSchoolTA).
+This repository is based on a fantastic repository under the name 'LambdaSchoolTA' put together by [Patrick Kennedy](https://github.com/mixelPixel/LambdaSchoolTA).
 
 Thank you Thomas Dillard, Tai the Thai and all of the other PMs for your help and dedication, without you guys I would not be doing this today.
 
