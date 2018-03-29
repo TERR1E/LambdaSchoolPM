@@ -34,16 +34,21 @@ Thank you Thomas Dillard, Tai the Thai and all of the other PMs for your help an
 
 ## Teaching Assistants | Project Leads
 <details>
-  <summary>List of CS9 TAs</summary>
+  <summary>List of CS10 PMs</summary>
   <p>
-    Alex Figilolia, Slack: @alexFig<br/>
-    Austin French, Slack: @frogr<br/>
-    Bonn Wonghansa, Slack: @Bonnw<br/>
-    Don Utley, Slack: @Don<br/>
-    Justin Borek, Slack: @JustinB<br/>
-    Kia Choi, Slack: @Kia Choi<br/>
-    Susanna McDonnald, Slack: @Susanna McDonnald<br/>
-    Thomas Dillard - Lead, Slack: @TDill<br/>
+    Moises Dobarganes - Section Lead<br/>
+    Aaron Wilder<br/>
+    Anderson Lavor<br/>
+    Csaba Balogh<br/>
+    Dre’Sean Williams<br/>
+    Ellen Nitchals<br/>
+    Guy Ross<br/>
+    Jackee Rohrich<br/>
+    Jason Metten<br/>
+    Jeffrey A Schock<br/>
+    Mark Marchant<br/>
+    Nicole Phillips<br/>
+    Ting Wang<br/>
   </p>
 </details>
 <details>
