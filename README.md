@@ -1,14 +1,15 @@
-# LambdaSchoolTA
-CS9 Teaching Assistant Guide/Handbook
+# LambdaSchoolPM
+CS10 Project Manager Guide/Handbook
 
 ## Special Thanks
 This repository is based on a fantastic repository under the same name put together by [Patrick Kennedy](https://github.com/mixelPixel/LambdaSchoolTA).
 
-Thank you Tai the Thai and all of the other TAs for answering all the questions I've ever had. Now and in the future.
+Thank you Thomas Dillard, Tai the Thai and all of the other PMs for your help and dedication, without you guys I would not be doing this today.
 
-[Lambda School](https://github.com/LambdaSchool) for giving me the opportunity to learn code and the knowledge I needed to write this markdown document.
+[Lambda School](https://github.com/LambdaSchool) for giving me the opportunity to learn to code and help others do the same in return.
 
 ## Helpful Links
+ - [PM Hello World Presentation](https://docs.google.com/presentation/d/1bSwCrfVGVd8AsFbk2Wyhzt0pqDhdBsKhQspCizGrnRk/edit?usp=sharing)
  - [Lambda School Training Kit](https://tk.lambdaschool.com/cs-master)
  - [Lambda School Github Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus) not actively maintained
  - [Lambda School Syllabus](https://github.com/LambdaSchool/computer-science)
