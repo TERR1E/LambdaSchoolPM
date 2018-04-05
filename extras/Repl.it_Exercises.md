@@ -8,11 +8,11 @@ ON REPL.IT
 * [x] 3. ReverseCase : Moises
 * [x] 4. SortString : Nicole (Monday 4-9-18)
 * [x] 5. ReverseNumber : Jeff (Thursday 4-5-18)
-* [x] 6. MoneyFormat : Jackie (Tuesday 4-10-28)
+* [x] 6. MoneyFormat : Jackee (Tuesday 4-10-28)
 * [x] 7. EvenOccurrences : Dre'Sean (Wednesday 4-11-18)
 * [ ] 8. VowelCount, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
 * [x] 9. StringToCamelCase : Csaba (Thursday 4-12-18)
-* [x] 10. RomanNumeralize
+* [x] 10. RomanNumeralize : Ellen (Monday 4-16-18)
 * [ ] 11. ConsecutiveStrings,
 * [ ] 12. CollatzSequence,
 * [ ] 13. ToBinaryString,
