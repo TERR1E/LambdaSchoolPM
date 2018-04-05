@@ -3,16 +3,16 @@ ON REPL.IT BUT NOT ON THIS LIST
 2. CSS Animation
 
 ON REPL.IT
-* [ ] 1. LongestString
-* [ ] 2. ReverseString
-* [ ] 3. ReverseCase
-* [ ] 4. SortString,
-* [ ] 5. ReverseNumber
-* [ ] 6. MoneyFormat,
-* [ ] 7. EvenOccurrences,
+* [x] 1. LongestString
+* [x] 2. ReverseString
+* [x] 3. ReverseCase
+* [x] 4. SortString,
+* [x] 5. ReverseNumber
+* [x] 6. MoneyFormat,
+* [x] 7. EvenOccurrences,
 * [ ] 8. VowelCount, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
-* [ ] 9. StringToCamelCase
-* [ ] 10. RomanNumeralize
+* [x] 9. StringToCamelCase
+* [x] 10. RomanNumeralize
 * [ ] 11. ConsecutiveStrings,
 * [ ] 12. CollatzSequence,
 * [ ] 13. ToBinaryString,
