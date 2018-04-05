@@ -3,28 +3,28 @@ ON REPL.IT BUT NOT ON THIS LIST
 2. CSS Animation
 
 ON REPL.IT
-* [] 1. LongestString
-* [] 2. ReverseString
-* [] 3. ReverseCase
-* [] 4. SortString,
-* [] 5. ReverseNumber
-* [] 6. MoneyFormat,
-* [] 7. EvenOccurrences,
-* [] 8. VowelCount, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
-* [] 9. StringToCamelCase
-* [] 10. RomanNumeralize
-* [] 11. ConsecutiveStrings,
-* [] 12. CollatzSequence,
-* [] 13. ToBinaryString,
-* [] 14. PrimeList,
-* [] 15. DaysBetween,
-* [] 16. SumOfDigits,
-* [] 17. CommonElements,
-* [] 18. ExpandedNumbers,
-* [] 19. StringCompression
-* [] 20. Operators,
-* [] 21. EqualSides,
-* [] 22. CombineTwoStrings, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
+* [ ] 1. LongestString
+* [ ] 2. ReverseString
+* [ ] 3. ReverseCase
+* [ ] 4. SortString,
+* [ ] 5. ReverseNumber
+* [ ] 6. MoneyFormat,
+* [ ] 7. EvenOccurrences,
+* [ ] 8. VowelCount, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
+* [ ] 9. StringToCamelCase
+* [ ] 10. RomanNumeralize
+* [ ] 11. ConsecutiveStrings,
+* [ ] 12. CollatzSequence,
+* [ ] 13. ToBinaryString,
+* [ ] 14. PrimeList,
+* [ ] 15. DaysBetween,
+* [ ] 16. SumOfDigits,
+* [ ] 17. CommonElements,
+* [ ] 18. ExpandedNumbers,
+* [ ] 19. StringCompression
+* [ ] 20. Operators,
+* [ ] 21. EqualSides,
+* [ ] 22. CombineTwoStrings, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
 23. CheckMatchingLeaves,
 24. MarkdownTables,
 25. RockPaperScissors,
