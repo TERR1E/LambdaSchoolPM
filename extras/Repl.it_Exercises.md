@@ -3,15 +3,15 @@ ON REPL.IT BUT NOT ON THIS LIST
 2. CSS Animation
 
 ON REPL.IT
-* [x] 1. LongestString
-* [x] 2. ReverseString
-* [x] 3. ReverseCase
-* [x] 4. SortString,
-* [x] 5. ReverseNumber
-* [x] 6. MoneyFormat,
-* [x] 7. EvenOccurrences,
+* [x] 1. LongestString : Moises
+* [x] 2. ReverseString : Moises
+* [x] 3. ReverseCase : Moises
+* [x] 4. SortString : Nicole (Monday 4-9-18)
+* [x] 5. ReverseNumber : Jeff (Thursday 4-5-18)
+* [x] 6. MoneyFormat : Jackie (Tuesday 4-10-28)
+* [x] 7. EvenOccurrences : Dre'Sean (Wednesday 4-11-18)
 * [ ] 8. VowelCount, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
-* [x] 9. StringToCamelCase
+* [x] 9. StringToCamelCase : Csaba (Thursday 4-12-18)
 * [x] 10. RomanNumeralize
 * [ ] 11. ConsecutiveStrings,
 * [ ] 12. CollatzSequence,
