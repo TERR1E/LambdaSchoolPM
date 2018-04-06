@@ -10,13 +10,13 @@ ON REPL.IT
 * [x] 5. ReverseNumber : Jeff (Thursday 4-5-18)
 * [x] 6. MoneyFormat : Jackee (Tuesday 4-10-28)
 * [x] 7. EvenOccurrences : Dre'Sean (Wednesday 4-11-18)
-* [ ] 8. VowelCount, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
+* [ ] 
 * [x] 9. StringToCamelCase : Csaba (Thursday 4-12-18)
 * [x] 10. RomanNumeralize : Ellen (Monday 4-16-18)
-* [ ] 11. ConsecutiveStrings,
-* [ ] 12. CollatzSequence,
-* [ ] 13. ToBinaryString,
-* [ ] 14. PrimeList,
+* [x] 11. ConsecutiveStrings : Moises (Tuesday 4-17-18)
+* [x] 12. CollatzSequence : Jeff (Wed 4-18-18)
+* [x] 13. ToBinaryString : Nicole (Thurs 4-19-18)
+* [x] 14. PrimeList : Jackee (Monday 4-23-18)
 * [ ] 15. DaysBetween,
 * [ ] 16. SumOfDigits,
 * [ ] 17. CommonElements,
@@ -24,7 +24,7 @@ ON REPL.IT
 * [ ] 19. StringCompression
 * [ ] 20. Operators,
 * [ ] 21. EqualSides,
-* [ ] 22. CombineTwoStrings, MISSINGMISSINGMISSINGMISSINGMISSINGMISSING,
+* [ ] 
 23. CheckMatchingLeaves,
 24. MarkdownTables,
 25. RockPaperScissors,
