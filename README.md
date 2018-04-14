@@ -11,14 +11,12 @@ Thank you Thomas Dillard, Tai the Thai and all of the other PMs for your help an
 ## Helpful Links
  - [PM Hello World Presentation](https://docs.google.com/presentation/d/1bSwCrfVGVd8AsFbk2Wyhzt0pqDhdBsKhQspCizGrnRk/edit?usp=sharing)
  - [Lambda School Training Kit](https://tk.lambdaschool.com/cs-master)
- - [Lambda School Github Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus) not actively maintained
  - [Lambda School Syllabus](https://github.com/LambdaSchool/computer-science)
  - [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
  - [MixelPixel's Enviroment Setup Guide](https://github.com/mixelpixel/Getting-Started)
  - [Emily's Brownbag Checklist](/extras/BrownBags.md)
  - [Frogr's Pull Request Workflow](https://github.com/frogr/Pull-Request-Workflow)
  - [Susanna's 1:1 Schedule](https://docs.google.com/forms/d/1QkRXRaznG5_qGtk3SsGgeh4L4Gcy_IIo_fHUI7xUlEc/edit)
- - [Repl.it Exercises](/extras/Repl.it_Exercises.md)
 
 ## Scheduling
 <details>
