@@ -1,15 +1,15 @@
 # LambdaSchoolPM
-CS10 Project Manager Guide/Handbook
+CS12 Project Manager Guide/Handbook
 
 ## Special Thanks
 This repository is based on a fantastic repository under the name 'LambdaSchoolTA' put together by [Patrick Kennedy](https://github.com/mixelPixel/LambdaSchoolTA).
 
-Thank you Thomas Dillard, Tai the Thai and all of the other PMs for your help and dedication, without you guys I would not be doing this today.
+Thank you Moises Dobarganes, Thomas Dillard, Tai the Thai and all of the other PMs for your help and dedication, without you guys I would not be doing this today.
 
 [Lambda School](https://github.com/LambdaSchool) for giving me the opportunity to learn to code and help others do the same in return.
 
 ## Helpful Links
- - [PM Hello World Presentation](https://docs.google.com/presentation/d/1bSwCrfVGVd8AsFbk2Wyhzt0pqDhdBsKhQspCizGrnRk/edit?usp=sharing)
+ - [PM Hello World Presentation](https://docs.google.com/presentation/d/1HF49_nZ2CdT2bg394Mc7WYvH8eKfS919uy8ZnZZNK8E/edit?usp=sharing)
  - [Lambda School Training Kit](https://tk.lambdaschool.com/cs-master)
  - [Code Review Checklist](https://github.com/LambdaSchool/Code-Review-Checklist)
  - [MixelPixel's Enviroment Setup Guide](https://github.com/mixelpixel/Getting-Started)
@@ -29,23 +29,18 @@ Thank you Thomas Dillard, Tai the Thai and all of the other PMs for your help an
   </p>
 </details>
 
-## Teaching Assistants | Project Leads
+## Project Managers | Project Leads
 <details>
-  <summary>List of CS10 PMs</summary>
+  <summary>List of CS12 PMs</summary>
   <p>
-    Moises Dobarganes - Section Lead<br/>
-    Aaron Wilder<br/>
-    Anderson Lavor<br/>
-    Csaba Balogh<br/>
-    Dre’Sean Williams<br/>
-    Ellen Nitchals<br/>
-    Guy Ross<br/>
-    Jackee Rohrich<br/>
-    Jason Metten<br/>
-    Jeffrey A Schock<br/>
-    Mark Marchant<br/>
-    Nicole Phillips<br/>
-    Ting Wang<br/>
+    Terrie Kim - Section Lead<br/>
+    Calum Groover<br/>
+    Dani Tacheny<br/>
+    Dixie Korley<br/>
+    Eric Hechavarria<br/>
+    Michael Marshalkovich<br/>
+    Nathan Daniel Flood<br/>
+    Nathaniel Flory<br/>
   </p>
 </details>
 <details>
